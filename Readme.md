@@ -1,0 +1,1 @@
+Basic takeaways from DevOps course. In Latvian.
