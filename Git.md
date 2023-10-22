@@ -1,19 +1,19 @@
 # Sākt jaunu projektu
-Izveido folderi, kur atradīsies projekts. Piemēram, mansprojekts
-Raksti savu kodu.
-(Jābūt uzinstalētam git)
-Palaid PowerShell (PS), aizej uz to folderi
-git init
-(Izveidojas folderis .git)
-Pievieno visu repo: git add .
-git commit -m "Komentārs"
+Izveido folderi, kur atradīsies projekts. Piemēram, mansprojekts.    
+Raksti savu kodu.  
+(Jābūt uzinstalētam git)  
+Palaid PowerShell (PS), aizej uz to folderi  
+`git init`    
+(Izveidojas folderis .git)  
+Pievieno visu repo: git add .  
+`git commit -m "Komentārs"`  
 
 
 # Ielikt github-ā projektu
-Githubā izveido projektu.
-(git-ā jāpievieno savs emails)
-git remote add origin https://github.com/vinetaru/Takeavays
-git push
+Githubā izveido projektu.  
+(git-ā jāpievieno savs emails)  
+git remote add origin https://github.com/vinetaru/Takeavays  
+git push  
 
 
 # Novilkt esošu projektu
